@@ -30,6 +30,6 @@
   </dist>
 
  <h4>🛠️ Tecnologias Utilizadas</h4>
-<p>Astah · Figma · Oracle Data Modeler · HTML · CSS · Tailwind CSS</p>
+<p>Astah · Figma · Oracle Data Modeler · HTML · CSS · Tailwind CSS · Git/GitHub</p>
 
 
