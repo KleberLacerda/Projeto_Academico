@@ -9,31 +9,25 @@
   
   <h4>Descrição dos Tópicos</h4>
   <dist>
-  <ol>
-    <li>Engenharia de Software</li>
-  </ol>
+ 
+  1º Parte: Engenharia de Software
+  
   <ul>
-    <li>User Stories</li>
-    <li>Modelagem UML</li>
+    <li>Épico definido</li>
+    <li>Criação User Stories</li>
+    <li>Diagrama de Contexto UML</li>
   </ul>
-  </dist>
   
-  
-  <ol>
-    <li>Desing Front-End</li>
-  </ol>
+  2º Parte: Desing UX/UI
   <ul>
-    <li>Figma</li>
-    <li>Prototipagem UX/UI</li>
+    <li>Desenvolvimento do prototipo no Figma</li>
+    <li>Conceitos de UX</li>
   </ul>
  
-
-
-  <ol>
-    <li>Desing Front-End</li>
-  </ol>
+  3º Parte: Modelagem de Dados 
   <ul>
-    <li>Figma</li>
-    <li>Prototipagem UX/UI</li>
+    <li>Criação do MER</li>
+    <li>Modelo lógico e físico</li>
+    <li>Ferramenta Oracle Data Modeler</li>
   </ul>
   </dist>
