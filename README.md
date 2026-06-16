@@ -18,7 +18,7 @@
   </ul>
   </dist>
   
-  <dist>
+  
   <ol>
     <li>Desing Front-End</li>
   </ol>
@@ -26,9 +26,9 @@
     <li>Figma</li>
     <li>Prototipagem UX/UI</li>
   </ul>
-  </dist>
+ 
 
-  <dist>
+
   <ol>
     <li>Desing Front-End</li>
   </ol>
