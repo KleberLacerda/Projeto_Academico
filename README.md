@@ -1,6 +1,6 @@
   **<h2>Criação de um Fintech </h2>** 
   
-  <p>Primeira challenge, seguindo os aprendizados e conhecimentos do 1º e 2º semestre da faculdade de Análise e Desenvolvimento de Sistemas na Fiap.</p>
+  <p>Desenvolvimento da primeira challenge Fiap seguindo os aprendizados e conhecimentos do 1º e 2º semestre do curso Análise e Desenvolvimento de Sistemas.</p>
   
 <p>Madu Finance foi o nome que batizei o sistema de gestão inteligente de fluxo de caixa e crédito. O objetivo é criar uma fintech que ajude o usuário a organizar suas finanças pessoais de forma automatizada e inteligente, eliminando a necessidade de lançamentos manuais e oferecendo alertas preditivos com base nos dados financeiros.</p>
 
@@ -29,3 +29,10 @@
     <li>Ferramenta Oracle Data Modeler</li>
   </ul>
   </dist>
+
+  <h4>🛠️ Tecnologias Utilizadas</h4>
+<p>HTML · CSS · Tailwind CSS · JavaScript · Java · Oracle DB · Figma · Astah</p>
+
+<h4>🚀 Como executar</h4>
+<p>Clone o repositório e abra o arquivo <code>index.html</code> diretamente no navegador. 
+Não é necessário instalar dependências.</p>
