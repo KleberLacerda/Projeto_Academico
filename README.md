@@ -11,21 +11,30 @@
   1º Parte: Engenharia de Software
   
   <ul>
-    <li>Épico definido</li>
-    <li>Criação User Stories</li>
-    <li>Diagrama de Contexto UML</li>
+    <li>Épico definido (Gestão Inteligente de Fluxo de Caixa e Crédito)</li>
+    <li>Criação de 5 User Stories e Critérios de Aceitação (INVEST)</li>
+    <li>Diagrama de Contexto e Diagrama de Casos de Uso UML</li>
   </ul>
   
   2º Parte: Desing UX/UI
   <ul>
-    <li>Desenvolvimento do prototipo web</li>
-    <li>Conceitos de UX</li>
+    <li>Desenvolvimento do protótipo web no Figma</li>
+    <li>Aplicação de Conceitos de UX (Leis da Gestalt, Proximidade, Semelhança e Hierarquia Visual)</li>
   </ul>
  
   3º Parte: Modelagem de Dados 
   <ul>
-    <li>Criação do MER</li>
-    <li>Modelo lógico e físico</li>
+    <li>Criação do Modelo Entidade-Relacionamento (MER)</li>
+    <li>Desenvolvimento dos Modelos Lógico e Físico (Padrão Oracle Database)</li>
+    <li>Implementação de regras de negócio via Check Constraints estruturadas</li>
+  </ul>
+
+  4º Parte: Desenvolvimento Front-End
+  <ul>
+    <li>Code da interface utilizando estrutura semântica em HTML5 e CSS3</li>
+    <li>Estilização moderna e ágil com o framework utilitário Tailwind CSS via CDN</li>
+    <li>Implementação de layout 100% responsivo para dispositivos mobile e web/li>
+    <li>Integração das regras de negócio visuais</li>
   </ul>
   </dist>
 
